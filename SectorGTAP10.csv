@@ -1,0 +1,66 @@
+SID,Code,Name
+1,pdr,Paddy rice
+2,wht,Wheat
+3,gro,Cereal grains nec
+4,v_f,"Vegetables, fruit, nuts"
+5,osd,Oil seeds
+6,c_b,"Sugar cane, sugar beet"
+7,pfb,Plant-based fibers
+8,ocr,Crops nec
+9,ctl,"Cattle, sheep and goats, horses"
+10,oap,Animal products nec
+11,rmk,Raw milk
+12,wol,"Wool, silk-worm cocoons"
+13,frs,Forestry
+14,fsh,Fishing
+15,coa,Coal
+16,oil,Oil
+17,gas,Gas
+18,oxt,Other Extraction
+19,cmt,"Meat: cattle, sheep, goats, horse"
+20,omt,Meat products nec
+21,vol,Vegetable oils and fats
+22,mil,Dairy products
+23,pcr,Processed rice
+24,sgr,Sugar
+25,ofd,Food products nec
+26,b_t,Beverages and tobacco products
+27,tex,Textiles
+28,wap,Wearing apparel
+29,lea,Leather products
+30,lum,Wood products
+31,ppp,"Paper products, publishing"
+32,p_c,"Petroleum, coal products"
+33,chm,Chemical products
+34,bph,Basic pharmaceutical products
+35,rpp,Rubber and plastic products
+36,nmm,Mineral products nec
+37,i_s,Ferrous metals
+38,nfm,Metals nec
+39,fmp,Metal products
+40,ele,"Computer, electronic and optical products"
+41,eeq,Electrical equipment
+42,ome,Machinery and equipment nec
+43,mvh,Motor vehicles and parts
+44,otn,Transport equipment nec
+45,omf,Manufactures nec
+46,ely,Electricity
+47,gdt,"Gas manufacture, distribution"
+48,wtr,Water
+49,cns,Construction
+50,trd,Trade
+51,afs,"Accommodation, Food and service activities"
+52,otp,Transport nec
+53,wtp,Water transport
+54,atp,Air transport
+55,whs,Warehousing and support activities
+56,cmn,Communication
+57,ofi,Financial services nec
+58,ins,Insurance
+59,rsa,Real estate activities
+60,obs,Business services nec
+61,ros,Recreational and other services
+62,osg,Public Administration and defense
+63,edu,Education
+64,hht,Human health and social work activities
+65,dwe,Dwellings
